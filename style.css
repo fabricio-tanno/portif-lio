@@ -1,0 +1,66 @@
+.header__index{
+    color: aliceblue;
+    background-color: mediumblue;
+    padding: 3em 3em 1px 10px;
+    
+}
+.botoes__index{
+    display: flex;
+    flex-direction: row;
+
+}
+.botoes__index__botao{
+    padding: 0px 5em;
+
+}
+.home{
+    font-size: 50px;
+    font-weight: 200;
+
+}
+.legenda__imagem{
+    padding: 0px;
+}
+.header__contato{
+    background-color: brown;
+    color: aliceblue;
+    padding: 3em 3em 1px 10px;
+
+}
+.form__contato{
+    flex-direction: column;
+}
+.header__blog{
+    background-color: forestgreen;
+    padding: 3em 3em 1px 10px;
+    color: aliceblue;
+
+}
+.p__blog{
+    font-size: 1.4em;
+}
+.header__pagina1{
+   background-color: chocolate;
+    padding: 3em 3em 1px 10px;
+    color: aliceblue;
+}
+.header__pagina2{
+    background-color: rgb(102, 34, 166);
+    padding: 3em 3em 1px 10px;
+    color: aliceblue;
+}
+.texto__index{
+
+    padding: 15px;
+    margin: 15px;
+}
+.img__index{
+    border: 15px darkblue;
+}
+.section__1{
+    background-color: pink;
+
+}
+.section__2{
+    background-color: yellowgreen;
+}
